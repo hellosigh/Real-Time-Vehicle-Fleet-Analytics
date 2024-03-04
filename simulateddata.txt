@@ -1,0 +1,13 @@
+18,11,Unsafe following distance,-90.63,39.7,Springfield to KC Via Hanibal,2016-06-01 14:44:01,2
+18,11,Unsafe following distance,-92.27,39.76,Springfield to KC Via Hanibal,2016-06-01 14:46:01,2
+18,11,Unsafe following distance,-92.07,39.71,Springfield to KC Via Hanibal,2016-06-01 14:48:01,2
+18,11,Unsafe following distance,-91.8,39.67,Springfield to KC Via Hanibal,2016-06-01 14:50:01,2
+18,11,Unsafe following distance,-91.36,39.76,Springfield to KC Via Hanibal,2016-06-01 14:52:01,2
+18,11,Unsafe following distance,-93.13,39.78,Springfield to KC Via Hanibal,2016-06-01 14:54:01,2
+18,11,Unsafe following distance,-94.36,39.37,Springfield to KC Via Hanibal,2016-06-01 14:56:01,2
+18,11,Unsafe following distance,-91.2,39.75,Springfield to KC Via Hanibal,2016-06-01 14:58:01,2
+18,11,Unsafe following distance,-90.97,39.72,Springfield to KC Via Hanibal,2016-06-01 15:00:01,2
+18,11,Unsafe following distance,-93.93,39.76,Springfield to KC Via Hanibal,2016-06-01 15:02:01,2
+18,11,Unsafe following distance,-94.25,39.73,Springfield to KC Via Hanibal,2016-06-01 15:04:01,2
+18,11,Unsafe following distance,-94.24,39.63,Springfield to KC Via Hanibal,2016-06-01 15:06:01,2
+18,11,Unsafe following distance,-94.57,39.15,Springfield to KC Via Hanibal,2016-06-01 15:08:01,2
