@@ -12,6 +12,7 @@ To maintain compliance with government regulations
 To Provide better customer experience
 ![image](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/95f2f92b-b15f-4c08-a31e-9f461f99cce7)
 
+![kafka server details](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/714a4756-004f-42c1-9ab0-201886ba8554)
 
 # Data Flow Pipeline
 1 Data ingestion and acquisition is done through Sqoop/Shell/Spark JDBC and NIFI, 
@@ -89,6 +90,7 @@ kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --par
 kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic fleetanalysticsout
 Check whether the events data started flowing in the kafka consumer.
 kafka-console-consumer.sh --zookeeper localhost:2181 --topic truckevents1
+![kafka server details](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/0bcb800a-43d6-45d9-a97e-6734f81d8db6)
 
 Start NIFI (If not started already)
 1. Run the web ui
@@ -111,6 +113,7 @@ new index.
 ![image](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/c95fe209-be94-4f4e-a112-9fc577c4b616)
 ![image](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/e0f7383e-1088-4f72-9e21-25a485d2650d)
 
+![Elastic Serach](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/4fae0b80-0a9a-4e49-84c9-db5f3505abb1)
 
 
 
@@ -118,11 +121,31 @@ new index.
 
 
 
+![1st](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/1d532633-0d4b-4416-9a8c-bfe9e2c73b0b)
+
+![2nd](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/e15c6b5d-c72b-4692-829b-ceb3d1157b23)
+![3rd](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/c2cb9ad7-a709-444d-aa97-ad9d9c2a1dbb)
 
 
 
+![4th](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/62820411-a0f1-4957-8de8-986e1f153b76)
 
 
 
+![1](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/3140703c-51de-4bab-b3da-5c19afb8555d)
+
+
+![2](https://github.com/hellosigh/Real![Database Details](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/107a3890-3c51-4370-9ea3-31774697bb4f)
+-Time-Vehicle-Fleet-Analytics/assets/124508230/2fb40162-640b-4088-9abf-2e90ade122c0)
+
+
+![table details](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/21896234-784d-4895-af60-3efd6248e642)
+![table details2](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/a7d0bf75-9ca8-4f71-8e0d-a0fe14b92af7)
+
+
+![list of file in LFS](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/9b3f4537-e6fa-42b1-9da0-ca02fc7047da)
+
+
+![service details](https://github.com/hellosigh/Real-Time-Vehicle-Fleet-Analytics/assets/124508230/e5448d43-7bde-4ee9-8bdf-9956173605ad)
 
 
